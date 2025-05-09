@@ -1,6 +1,5 @@
 <h1 align='center'> Demo App</h1> 
 
-> A demo showcasing [`theme-csx`](https://github.com/KJ-GM/theme-csx) – give it a ⭐ if you find it helpful!
 
 <div align="center">
 
