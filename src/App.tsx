@@ -5,6 +5,7 @@ import { SafeAreaProvider } from "react-native-safe-area-context";
 import { NavigationProvider } from "./navigation/NavigationProvider";
 import { StatusBarTheme } from "./components/StatusBarTheme";
 
+// Test branch
 export default function App() {
   return (
     <SafeAreaProvider>
